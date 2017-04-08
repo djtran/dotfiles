@@ -1,0 +1,24 @@
+#! /bin/bash
+
+#Setup UI styles - I wish this looked nice but the screen res sucks.. -crying-
+#xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+#xrandr --addmode LVDS-1 1920x1080_60.00
+#xrandr --output LVDS-1 --mode 1920x1080_60.00
+
+sleep .5
+
+#Terminal Font
+xrdb ~/.Xresources
+
+#Persist color scheme 
+wal -i "$(< "${HOME}/.cache/wal/wal")" 
+
+#Setup services
+
+#Composite Manager (for transparent terminals)
+compton -b --config ~/.config/compton/compton.conf
+
+#Launchy
+launchy &
+
+exec i3
