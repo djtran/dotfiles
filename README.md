@@ -1,7 +1,11 @@
 # dotfiles
 
-Inside of this repo are my configuration files for my Arch Linux installation. I'm currently in the process of making everything manageable with **GNU Stow**, which is already possible with most of these dotfiles, but some files will have to be moved/copied manually.  
+Inside of this repo are my configuration files for my Arch Linux installation.
+
+For a list of main applications and packages that I'm using in my setup, please take a look at my [notes](ArchLinuxNotes.md)!
+
+_Please note that I used bash.bashrc to configure my terminal, so that needs to be manually placed into /etc/_
 
 ## Current installation :
 
-![alt tag](current.png)
+![A photo of my current setup](current.png)

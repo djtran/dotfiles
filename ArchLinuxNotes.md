@@ -19,6 +19,7 @@ _Look at polybar stuff on unixporn_
 ## Packages used so far
 
 ### Core Environment
+- **rEFind** - Boot Manager
 - **i3-gaps** - Window Manager
 - **xorg** - X11 Server
 - **URxvt** - Terminal
@@ -35,7 +36,7 @@ _Look at polybar stuff on unixporn_
 - **Spotify**
 	- **ncmpcpp** - Terminal Music Player (ncurses-based)
 	- **mopidy** (with ncmpcpp) - Integration with Spotify, Soundcloud, & local music files
-- **Launchy** - Application Launcher
+- **Rofi** - Application Launcher & Window Switcher
 - **Libre Office** - Word & Spreadsheet Processing
 - **Octave** - Data Processing (Matlab for scrubs)
 - **apvlv** - Vim-styled PDF Viewer
@@ -51,4 +52,5 @@ _Look at polybar stuff on unixporn_
 - **neofetch** - Color Scheme & SysInfo Output
 
 ## Misc
+- **GNU Stow** - manages dotfiles!
 - **Pandoc** - universal document converter.

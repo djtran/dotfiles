@@ -37,8 +37,8 @@ line-size = 0
 ;line-color = #f00
 
 border-top-size = 8
-border-left-size = 400
-border-right-size = 400
+border-left-size = 300
+border-right-size = 300
 border-color = #00000000
 
 padding-left = 3
@@ -56,7 +56,7 @@ font-3 = siji:pixelsize=9;1
 ;modules-center = filesystem volume
 ;modules-right = xbacklight memory cpu wlan eth battery date powermenu
 
-modules-center = memory cpu battery wlan eth
+modules-center = volume memory cpu battery wlan eth
 modules-left = i3
 modules-right = date
 

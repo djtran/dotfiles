@@ -166,6 +166,10 @@ new_window pixel 4
 #Cycle Wallpapers
 bindsym $mod+Shift+x exec "wal -i $HOME/Downloads/Wallpapers; $HOME/.config/polybar/launch.sh"
 
+#Rofi
+bindsym $mod+Shift+Tab exec "rofi -show run"
+bindsym $mod+Tab exec "rofi -show window"
+
 #No i3bar. Polybar instead
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
