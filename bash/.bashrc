@@ -5,7 +5,9 @@
 #Run wal and generate colorschemes for each terminal.
 (wal -r &)
 
-neofetch --colors 1 2 3 4 5 6 7 --ascii_colors 1 2 3 4 5 6 7
+#neofetch --colors 1 2 3 4 5 6 7 --ascii-colors 1 2 3 4 5 6 7 
+neofetch --colors 1 2 3 4 5 6 7 --w3m
+
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return

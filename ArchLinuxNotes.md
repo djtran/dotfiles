@@ -1,18 +1,10 @@
 ## Packages to look into
-### Stow
-Easy way to throw dotfiles onto github.
-
-### zsh
-Terminal Emulator alternative
 
 ### other IDE's
 
-Look into Sublime w/ plugins. I feel like there's a whole world I don't know about.
+fish? or zsh? fish looks really attractive
 
-Also, nvim with plugins <3 sounds like that'll be gr8.
-
-
-https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+compton transition animations? I know there have been people using compiz-reloaded for that.
 
 _Look at polybar stuff on unixporn_
 
@@ -23,13 +15,21 @@ _Look at polybar stuff on unixporn_
 - **i3-gaps** - Window Manager
 - **xorg** - X11 Server
 - **URxvt** - Terminal
-- **nvim** - Text Editor (bless neovim)
+- **[neovim](https://github.com/neovim/neovim)** - Text Editor & IDE (bless neovim)
+	- **[tpope/vim-sensible](https://github.com/tpope/vim-sensible)** - Nice set of initial nvim settings
+	- **[junegunn/vim-plug](https://github.com/junegunn/vim-plug)** - Plugin manager
+	- **[vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)** - pretty statusline
+	- **[mhartington/oceanic-next](https://github.com/mhartington/oceanic-next)** - Neovim & airline theme
 
 ### Environment Extensions (pretty pretty)
-- **polybar** - Status Bar
-- **wal** - BG & Color Schemes
+- **[polybar](https://github.com/jaagr/polybar)** - Status Bar
+- **[wal](https://github.com/dylanaraps/wal)** - BG & Color Schemes
 - **compton** - Compositing Manager
 - **i3lock** - Lock Screen
+
+### Theming
+- **Arc-Dark** - Theme
+- **lxappearance** - Simple Theme changer (does not require LXDE)
 
 ### Applications
 - **Chromium**
@@ -40,11 +40,11 @@ _Look at polybar stuff on unixporn_
 - **Libre Office** - Word & Spreadsheet Processing
 - **Octave** - Data Processing (Matlab for scrubs)
 - **apvlv** - Vim-styled PDF Viewer
-- **Atom** - Customizable Everything IDE
 
 ### Fonts
 - **Font Awesome** - I love icons
 - **Inconsolata** - Looks great in terminal
+- **Convergence** - System theme font!
 
 ## Screenshot stuff
 - **cava** - Audio Visualizer

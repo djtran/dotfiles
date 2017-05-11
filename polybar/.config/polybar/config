@@ -219,7 +219,7 @@ label =  : %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = wlp2s0
+interface = wlo1
 interval = 3.0
 
 format-connected = <label-connected> : <ramp-signal>
@@ -273,6 +273,10 @@ label =  : %date% %time%
 
 [module/volume]
 type = internal/volume
+
+master-soundcard = default
+master-mixer = Master
+mapping = true
 
 format-volume = <label-volume> <bar-volume>
 label-volume = VOL
