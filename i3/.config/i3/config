@@ -46,7 +46,7 @@ bindsym $mod+Shift+q kill
 #bindsym $mod+l focus up
 #bindsym $mod+semicolon focus right
 
-bindsym $mod+l exec "/usr/bin/i3lock -i ~/Wallpapers/Notos-Bae.png"
+bindsym $mod+l exec "~/.config/i3/lock.sh"
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
