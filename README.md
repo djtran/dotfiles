@@ -28,7 +28,7 @@ _Please note that I used bash.bashrc to configure my terminal, so that needs to 
 
 ## Current installation:
 ### Dirty:
-![A photo of my current setup](current.png)
+![A photo of my current setup](dirty.png)
 
 ### Clean:
 ![A photo of my setup without any windows open](clean.png)
