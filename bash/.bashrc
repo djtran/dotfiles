@@ -17,3 +17,6 @@ alias ls='ls --color=auto'
 
 #Make translucent
 transset-df -i $WINDOWID .9 >/dev/null
+
+#Turn off bell
+xset b off

@@ -167,7 +167,7 @@ new_window pixel 4
 bindsym $mod+Shift+x exec "wal -i $HOME/Wallpapers; $HOME/.config/polybar/launch.sh"
 
 #Rofi
-bindsym $mod+Shift+Tab exec "rofi -show run"
+bindsym Control+space exec "rofi -show run"
 bindsym $mod+Tab exec "rofi -show window"
 
 #No i3bar. Polybar instead
