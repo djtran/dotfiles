@@ -1,12 +1,10 @@
 ## Packages to look into
 
-### other IDE's
+Neovim configs? like line numbers
 
-fish? or zsh? fish looks really attractive
+Expanding script for managing displays to be made into a udev rule?
 
-compton transition animations? I know there have been people using compiz-reloaded for that.
-
-_Look at polybar stuff on unixporn_
+Powerline for Polybar? New Polybar in general?
 
 ## Packages used so far
 
@@ -30,16 +28,16 @@ _Look at polybar stuff on unixporn_
 ### Theming
 - **Arc-Dark** - Theme
 - **lxappearance** - Simple Theme changer (does not require LXDE)
-
+- **[Kuvshinov-Ilya](http://kuvshinov-ilya.deviantart.com/)** - The artist from whom I downloaded all of my wallpapers & portraits
 ### Applications
-- **Chromium**
-- **Spotify**
-	- **ncmpcpp** - Terminal Music Player (ncurses-based)
-	- **mopidy** (with ncmpcpp) - Integration with Spotify, Soundcloud, & local music files
+- **Chromium** - Web Browsing
+- **Spotify** - Music Streaming
 - **Rofi** - Application Launcher & Window Switcher
 - **Libre Office** - Word & Spreadsheet Processing
 - **Octave** - Data Processing (Matlab for scrubs)
 - **apvlv** - Vim-styled PDF Viewer
+- **Sublime Text** - When I want to work on multi-file projects outside of neovim
+- **Netbeans 7.1** - For Java development
 
 ### Fonts
 - **Font Awesome** - I love icons

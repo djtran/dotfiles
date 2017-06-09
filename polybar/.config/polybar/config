@@ -183,7 +183,7 @@ label-song-ellipsis = true
 type = internal/xbacklight
 
 format = <label> <bar>
-label = BL
+label = 
 
 bar-width = 6
 bar-indicator = |
@@ -276,10 +276,10 @@ type = internal/volume
 
 master-soundcard = default
 master-mixer = Master
-mapping = true
+#mapping = true
 
 format-volume = <label-volume> <bar-volume>
-label-volume = VOL
+label-volume = 
 label-volume-foreground = ${root.foreground}
 
 format-muted-prefix = " "

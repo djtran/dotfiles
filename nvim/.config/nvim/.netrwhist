@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/djtran/Downloads'
 let g:netrw_dirhist_2='/home/djtran/dotfiles'
 let g:netrw_dirhist_3='/etc/laptop-mode'
 let g:netrw_dirhist_4='/home/djtran/dotfiles/polybar/.config'
+let g:netrw_dirhist_5='/home/djtran/dotfiles/polybar/.config/polybar'
