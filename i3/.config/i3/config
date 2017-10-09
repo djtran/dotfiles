@@ -172,6 +172,7 @@ bindsym $mod+Tab exec "rofi -show window"
 
 #No i3bar. Polybar instead
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec "dunst -startup_notification"
 
 # GLORIOUS G A P S
 gaps inner 8

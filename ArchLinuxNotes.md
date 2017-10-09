@@ -18,6 +18,7 @@ Powerline for Polybar? New Polybar in general?
 	- **[junegunn/vim-plug](https://github.com/junegunn/vim-plug)** - Plugin manager
 	- **[vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)** - pretty statusline
 	- **[mhartington/oceanic-next](https://github.com/mhartington/oceanic-next)** - Neovim & airline theme
+- **dunst** - Notifications server for libnotify
 
 ### Environment Extensions (pretty pretty)
 - **[polybar](https://github.com/jaagr/polybar)** - Status Bar

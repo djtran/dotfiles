@@ -18,7 +18,7 @@ wal -i "$(< "${HOME}/.cache/wal/wal")"
 #Composite Manager (for transparent terminals)
 compton -b --config ~/.config/compton/compton.conf
 
-#Launchy
-launchy &
+#Notification Manager
+#dunst -startup_notification
 
 exec i3
