@@ -16,9 +16,7 @@ Then:
 ```
 git clone /https://github.com/djtran/dotfiles
 cd dotfiles
-stow i3
-stow nvim
-stow -insert whichever program you would like to use my configs for-
+stow -v -R -t ~ <repoDir>
 
 ```
 
